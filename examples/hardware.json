@@ -1,0 +1,10 @@
+{
+  "synthetic": true,
+  "collected_at": "2026-01-01T12:00:15+00:00",
+  "sections": {
+    "cpu": "SYNTHETIC: Example CPU, 4 logical processors",
+    "motherboard": "SYNTHETIC: Example Vendor / Example Board",
+    "pci_devices": "SYNTHETIC: Example GPU and NVMe controller",
+    "network_interfaces": "SYNTHETIC: demo0 UP"
+  }
+}

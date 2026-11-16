@@ -1,0 +1,1 @@
+{"synthetic": true, "timestamp": "2026-01-01T12:00:05+00:00", "device": "/dev/nvme0", "serial": "DEMO-SSD-001", "model": "Example NVMe SSD", "temperature_c": 29.9, "warnings": [], "smart": {"critical_warning": 0, "temperature": 303, "avail_spare": 100, "spare_thresh": 5, "percent_used": 2, "media_errors": 0, "num_err_log_entries": 3}}
